@@ -10,6 +10,7 @@ Saída
 Imprima a tabuada de N, conforme o exemplo fornecido.
 
 Exemplo de Entrada
+
 140
 
 Exemplo de Saída
